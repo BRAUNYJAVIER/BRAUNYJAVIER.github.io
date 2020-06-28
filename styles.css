@@ -1,0 +1,6 @@
+h1{color: lightyellow; font-family: oswald;}
+@font-face {font-family: oswald;src: url(oswald.ttf);}
+h2{color: lightyellow; font-family: oswald;}
+@font-face {font-family: Piedra ;src: url(Piedra.ttf);}
+h3{color: indianred; font-family: Arial; font-size: 80px;}
+h4{color: black; font-family: Arial; font-size: 0.5cm;}
